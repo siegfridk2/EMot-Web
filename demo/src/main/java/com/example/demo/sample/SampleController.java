@@ -17,7 +17,7 @@ public class SampleController {
 
 	@RequestMapping("/test")
 	public ModelAndView test(ModelAndView mv) {
-		logger.info("this is test method1");
+		logger.info("this is test method11111");
 		
 		List<SampleItem> list = sampleService.getList();
 		
