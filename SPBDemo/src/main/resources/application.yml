@@ -1,6 +1,6 @@
 server:
   servlet:
-    context-path: /demo
+    context-path: /
   port: 9090
   tomcat:
     connection-timeout: 120000
