@@ -1,0 +1,149 @@
+INFO  21-04-01 09:36:01[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.4 on DESKTOP-PAC9L00 with PID 35248 (C:\workspace_emot\demo\target\classes started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-01 09:36:01[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-04-01 09:36:02[restartedMain] [DevToolsPropertyDefaultsPostProcessor:255] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+INFO  21-04-01 09:36:02[restartedMain] [DevToolsPropertyDefaultsPostProcessor:255] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+INFO  21-04-01 09:36:04[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 9090 (http)
+INFO  21-04-01 09:36:04[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-9090"]
+INFO  21-04-01 09:36:04[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-04-01 09:36:04[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-04-01 09:36:04[restartedMain] [TldScanner:173] - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+INFO  21-04-01 09:36:04[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-04-01 09:36:04[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 2547 ms
+INFO  21-04-01 09:36:04[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-01 09:36:05[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-04-01 09:36:05[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-9090"]
+INFO  21-04-01 09:36:05[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 9090 (http) with context path '/demo'
+INFO  21-04-01 09:36:05[restartedMain] [DemoApplication:61] - Started DemoApplication in 3.942 seconds (JVM running for 4.633)
+INFO  21-04-01 09:36:20[http-nio-9090-exec-1] [[/demo]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+INFO  21-04-01 09:36:20[http-nio-9090-exec-1] [DispatcherServlet:525] - Initializing Servlet 'dispatcherServlet'
+INFO  21-04-01 09:36:20[http-nio-9090-exec-1] [DispatcherServlet:547] - Completed initialization in 2 ms
+INFO  21-04-01 09:36:20[http-nio-9090-exec-1] [SampleController:20] - this is test method
+WARN  21-04-01 09:36:22[http-nio-9090-exec-1] [SessionIdGeneratorBase:173] - Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [720] milliseconds.
+INFO  21-04-01 09:36:27[http-nio-9090-exec-4] [SampleController:20] - this is test method
+INFO  21-04-01 09:37:59[Thread-5] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-04-01 09:37:59[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.4 on DESKTOP-PAC9L00 with PID 35248 (C:\workspace_emot\demo\target\classes started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-01 09:37:59[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-04-01 09:38:00[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 9090 (http)
+INFO  21-04-01 09:38:00[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-9090"]
+INFO  21-04-01 09:38:00[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-04-01 09:38:00[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-04-01 09:38:00[restartedMain] [TldScanner:173] - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+INFO  21-04-01 09:38:00[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-04-01 09:38:00[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 470 ms
+INFO  21-04-01 09:38:00[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-01 09:38:00[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-04-01 09:38:00[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-9090"]
+INFO  21-04-01 09:38:00[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 9090 (http) with context path '/demo'
+INFO  21-04-01 09:38:00[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.693 seconds (JVM running for 119.832)
+INFO  21-04-01 09:38:00[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-04-01 09:38:16[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 38876 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-01 09:38:16[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-01 09:38:18[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-01 09:38:18[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 3.01 seconds (JVM running for 5.195)
+INFO  21-04-01 09:38:19[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-04-01 10:59:43[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 32696 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-01 10:59:43[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-01 10:59:45[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-01 10:59:46[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.758 seconds (JVM running for 4.117)
+INFO  21-04-01 10:59:46[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-04-01 11:21:36[Thread-8] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-04-01 11:21:47[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.4 on DESKTOP-PAC9L00 with PID 35248 (C:\workspace_emot\demo\target\classes started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-01 11:21:47[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-04-01 11:21:47[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 9090 (http)
+INFO  21-04-01 11:21:47[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-04-01 11:21:47[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-04-01 11:21:47[restartedMain] [TldScanner:173] - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+INFO  21-04-01 11:21:47[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-04-01 11:21:47[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 477 ms
+INFO  21-04-01 11:21:47[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-01 11:21:47[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-04-01 11:21:47[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 9090 (http) with context path '/demo'
+INFO  21-04-01 11:21:47[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.657 seconds (JVM running for 6347.136)
+INFO  21-04-01 11:21:47[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-04-01 11:33:57[Thread-18] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-04-01 11:33:57[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.4 on DESKTOP-PAC9L00 with PID 35248 (C:\workspace_emot\demo\target\classes started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-01 11:33:57[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-04-01 11:33:57[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 9090 (http)
+INFO  21-04-01 11:33:57[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-04-01 11:33:57[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-04-01 11:33:58[restartedMain] [TldScanner:173] - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+INFO  21-04-01 11:33:58[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-04-01 11:33:58[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 615 ms
+INFO  21-04-01 11:33:58[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-01 11:33:58[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-04-01 11:33:58[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 9090 (http) with context path '/demo'
+INFO  21-04-01 11:33:58[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.865 seconds (JVM running for 7077.623)
+INFO  21-04-01 11:33:58[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-04-01 11:33:58[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.4 on DESKTOP-PAC9L00 with PID 39340 (C:\workspace_emot\demo\target\classes started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-01 11:33:58[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-04-01 11:33:58[restartedMain] [DevToolsPropertyDefaultsPostProcessor:255] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+INFO  21-04-01 11:33:58[restartedMain] [DevToolsPropertyDefaultsPostProcessor:255] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+INFO  21-04-01 11:34:00[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 9090 (http)
+INFO  21-04-01 11:34:00[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-9090"]
+INFO  21-04-01 11:34:00[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-04-01 11:34:00[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-04-01 11:34:00[restartedMain] [TldScanner:173] - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+INFO  21-04-01 11:34:00[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-04-01 11:34:00[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 2332 ms
+INFO  21-04-01 11:34:00[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+WARN  21-04-01 11:34:01[restartedMain] [OptionalLiveReloadServer:61] - Unable to start LiveReload server
+INFO  21-04-01 11:34:01[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-9090"]
+WARN  21-04-01 11:34:01[restartedMain] [AnnotationConfigServletWebServerApplicationContext:591] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 9090 is already in use
+INFO  21-04-01 11:34:01[restartedMain] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-04-01 11:34:01[restartedMain] [Http11NioProtocol:173] - Pausing ProtocolHandler ["http-nio-9090"]
+INFO  21-04-01 11:34:01[restartedMain] [StandardService:173] - Stopping service [Tomcat]
+INFO  21-04-01 11:34:01[restartedMain] [Http11NioProtocol:173] - Stopping ProtocolHandler ["http-nio-9090"]
+INFO  21-04-01 11:34:01[restartedMain] [Http11NioProtocol:173] - Destroying ProtocolHandler ["http-nio-9090"]
+INFO  21-04-01 11:34:01[restartedMain] [ConditionEvaluationReportLoggingListener:136] - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+ERROR 21-04-01 11:34:01[restartedMain] [LoggingFailureAnalysisReporter:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 9090 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 9090 or configure this application to listen on another port.
+
+INFO  21-04-01 11:34:14[http-nio-9090-exec-1] [[/demo]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+INFO  21-04-01 11:34:14[http-nio-9090-exec-1] [DispatcherServlet:525] - Initializing Servlet 'dispatcherServlet'
+INFO  21-04-01 11:34:14[http-nio-9090-exec-1] [DispatcherServlet:547] - Completed initialization in 1 ms
+INFO  21-04-01 11:34:14[http-nio-9090-exec-1] [SampleController:21] - this is test method
+INFO  21-04-01 11:34:14[http-nio-9090-exec-1] [SampleController:22] - ---------------------test by ryu's pc ----------------
+INFO  21-04-01 11:35:05[http-nio-9090-exec-4] [SampleController:21] - this is test method
+INFO  21-04-01 11:35:05[http-nio-9090-exec-4] [SampleController:22] - ---------------------test by ryu's pc ----------------
+INFO  21-04-01 11:35:06[http-nio-9090-exec-8] [SampleController:21] - this is test method
+INFO  21-04-01 11:35:06[http-nio-9090-exec-8] [SampleController:22] - ---------------------test by ryu's pc ----------------
+INFO  21-04-01 13:10:47[Thread-23] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-04-01 13:11:00[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.4 on DESKTOP-PAC9L00 with PID 35248 (C:\workspace_emot\demo\target\classes started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-01 13:11:00[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-04-01 13:11:00[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 9090 (http)
+INFO  21-04-01 13:11:00[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-04-01 13:11:00[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-04-01 13:11:00[restartedMain] [TldScanner:173] - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+INFO  21-04-01 13:11:00[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-04-01 13:11:00[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 314 ms
+INFO  21-04-01 13:11:00[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-01 13:11:00[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-04-01 13:11:00[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 9090 (http) with context path '/demo'
+INFO  21-04-01 13:11:00[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.446 seconds (JVM running for 12899.934)
+INFO  21-04-01 13:11:00[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-04-01 14:45:00[http-nio-9090-exec-1] [Http11Processor:175] - Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x010x00{0x010x000x00w0x030x030x0d>Q0x910xcb)0xce5)sV@0x05o0xfa)A0x9c0x8c/0xaf0x820xa8D0xd7W[0x030xaa0x1e0xa030x000x000x1a0xc0/0xc0+0xc00x110xc00x070xc00x130xc00x090xc00x140xc00x0a0x000x050x00/0x0050xc00x120x000x0a0x010x000x0040x000x050x000x050x010x000x000x000x000x000x0a0x000x080x000x060x000x170x000x180x000x190x000x0b0x000x020x010x000x000x0d0x000x100x000x0e0x040x010x040x030x020x010x020x030x040x010x050x010x060x010xff0x010x000x01...]. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:417)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:261)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)

@@ -1,0 +1,1670 @@
+INFO  21-03-31 10:07:10[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 14760 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 10:07:10[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 10:07:10[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 10050 (http)
+INFO  21-03-31 10:07:10[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:07:10[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 10:07:10[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 10:07:10[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 10:07:10[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 10:07:10[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 10:07:10[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 10:07:10[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 10:07:10[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 10:07:10[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 166 ms
+INFO  21-03-31 10:07:10[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:07:10[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-03-31 10:07:10[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:07:10[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 10050 (http) with context path '/demo'
+INFO  21-03-31 10:07:10[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.302 seconds (JVM running for 76.509)
+INFO  21-03-31 10:07:10[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-03-31 10:09:41[Thread-8] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:09:41[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 14760 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 10:09:41[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 10:09:41[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 10050 (http)
+INFO  21-03-31 10:09:41[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:09:41[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 10:09:41[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 10:09:41[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 10:09:41[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 10:09:41[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 10:09:41[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 10:09:41[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 10:09:41[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 10:09:41[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 172 ms
+INFO  21-03-31 10:09:41[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:09:41[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-03-31 10:09:41[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:09:41[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 10050 (http) with context path '/demo'
+INFO  21-03-31 10:09:41[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.26 seconds (JVM running for 227.586)
+INFO  21-03-31 10:09:41[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-03-31 10:13:06[Thread-13] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:13:06[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 14760 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 10:13:06[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 10:13:06[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 10050 (http)
+INFO  21-03-31 10:13:06[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:13:06[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 10:13:06[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 10:13:06[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 10:13:06[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 10:13:06[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 10:13:06[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 10:13:06[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 10:13:06[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 10:13:06[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 266 ms
+INFO  21-03-31 10:13:06[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:13:06[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-03-31 10:13:06[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:13:06[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 10050 (http) with context path '/demo'
+INFO  21-03-31 10:13:06[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.399 seconds (JVM running for 433.032)
+INFO  21-03-31 10:13:06[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-03-31 10:13:44[Thread-18] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:13:44[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 14760 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 10:13:44[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 10:13:44[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 10050 (http)
+INFO  21-03-31 10:13:44[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:13:44[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 10:13:44[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 10:13:44[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 10:13:44[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 10:13:44[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 10:13:44[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 10:13:44[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 10:13:45[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 10:13:45[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 156 ms
+INFO  21-03-31 10:13:45[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:13:45[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-03-31 10:13:45[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:13:45[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 10050 (http) with context path '/demo'
+INFO  21-03-31 10:13:45[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.258 seconds (JVM running for 471.195)
+INFO  21-03-31 10:13:45[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-03-31 10:14:07[Thread-23] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:14:07[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 14760 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 10:14:07[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 10:14:07[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 10050 (http)
+INFO  21-03-31 10:14:07[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:14:07[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 10:14:07[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 10:14:07[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 10:14:07[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 10:14:07[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 10:14:07[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 10:14:07[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 10:14:07[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 10:14:07[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 141 ms
+INFO  21-03-31 10:14:07[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:14:07[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-03-31 10:14:07[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:14:07[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 10050 (http) with context path '/demo'
+INFO  21-03-31 10:14:07[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.226 seconds (JVM running for 494.047)
+INFO  21-03-31 10:14:07[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-03-31 10:14:16[Thread-28] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:14:16[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 14760 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 10:14:16[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 10:14:16[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 10050 (http)
+INFO  21-03-31 10:14:16[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:14:16[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 10:14:16[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 10:14:16[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 10:14:16[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 10:14:16[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 10:14:16[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 10:14:16[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 10:14:16[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 10:14:16[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 156 ms
+INFO  21-03-31 10:14:16[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:14:16[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-03-31 10:14:16[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:14:16[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 10050 (http) with context path '/demo'
+INFO  21-03-31 10:14:16[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.23 seconds (JVM running for 502.592)
+INFO  21-03-31 10:14:16[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-03-31 10:17:54[Thread-33] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:17:54[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 14760 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 10:17:54[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 10:17:54[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 10050 (http)
+INFO  21-03-31 10:17:54[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:17:54[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 10:17:54[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 10:17:54[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 10:17:54[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 10:17:54[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 10:17:54[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 10:17:54[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 10:17:54[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 10:17:54[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 140 ms
+INFO  21-03-31 10:17:54[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:17:54[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-03-31 10:17:54[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:17:54[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 10050 (http) with context path '/demo'
+INFO  21-03-31 10:17:54[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.252 seconds (JVM running for 720.722)
+INFO  21-03-31 10:17:54[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-03-31 10:18:54[Thread-38] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:18:54[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 14760 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 10:18:54[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 10:18:55[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 10050 (http)
+INFO  21-03-31 10:18:55[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:18:55[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 10:18:55[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 10:18:55[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 10:18:55[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 10:18:55[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 10:18:55[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 10:18:55[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 10:18:55[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 10:18:55[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 141 ms
+INFO  21-03-31 10:18:55[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:18:55[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-03-31 10:18:55[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:18:55[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 10050 (http) with context path '/demo'
+INFO  21-03-31 10:18:55[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.205 seconds (JVM running for 781.214)
+INFO  21-03-31 10:18:55[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-03-31 10:19:22[Thread-43] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:19:22[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 14760 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 10:19:22[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 10:19:22[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 10050 (http)
+INFO  21-03-31 10:19:22[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:19:22[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 10:19:22[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 10:19:22[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 10:19:22[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 10:19:22[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 10:19:22[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 10:19:22[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 10:19:22[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 10:19:22[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 154 ms
+WARN  21-03-31 10:19:22[restartedMain] [AnnotationConfigServletWebServerApplicationContext:591] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sampleController': Unsatisfied dependency expressed through field 'sampleService'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.example.demo.sample.SampleService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+INFO  21-03-31 10:19:22[restartedMain] [StandardService:173] - Stopping service [Tomcat]
+INFO  21-03-31 10:19:22[restartedMain] [ConditionEvaluationReportLoggingListener:136] - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+ERROR 21-03-31 10:19:22[restartedMain] [LoggingFailureAnalysisReporter:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field sampleService in com.example.demo.sample.SampleController required a bean of type 'com.example.demo.sample.SampleService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.example.demo.sample.SampleService' in your configuration.
+
+INFO  21-03-31 10:19:52[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 14760 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 10:19:52[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 10:19:53[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 10050 (http)
+INFO  21-03-31 10:19:53[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:19:53[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 10:19:53[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 10:19:53[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 10:19:53[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 10:19:53[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 10:19:53[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 10:19:53[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 10:19:53[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 10:19:53[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 141 ms
+WARN  21-03-31 10:19:53[restartedMain] [AnnotationConfigServletWebServerApplicationContext:591] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sampleController': Unsatisfied dependency expressed through field 'sampleService'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.example.demo.sample.SampleService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+INFO  21-03-31 10:19:53[restartedMain] [StandardService:173] - Stopping service [Tomcat]
+INFO  21-03-31 10:19:53[restartedMain] [ConditionEvaluationReportLoggingListener:136] - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+ERROR 21-03-31 10:19:53[restartedMain] [LoggingFailureAnalysisReporter:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field sampleService in com.example.demo.sample.SampleController required a bean of type 'com.example.demo.sample.SampleService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.example.demo.sample.SampleService' in your configuration.
+
+INFO  21-03-31 10:20:13[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 14760 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 10:20:13[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 10:20:14[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 10050 (http)
+INFO  21-03-31 10:20:14[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:20:14[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 10:20:14[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 10:20:14[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 10:20:14[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 10:20:14[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 10:20:14[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 10:20:14[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 10:20:14[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 10:20:14[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 178 ms
+WARN  21-03-31 10:20:14[restartedMain] [AnnotationConfigServletWebServerApplicationContext:591] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sampleController': Unsatisfied dependency expressed through field 'sampleService'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.example.demo.sample.SampleService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+INFO  21-03-31 10:20:14[restartedMain] [StandardService:173] - Stopping service [Tomcat]
+INFO  21-03-31 10:20:14[restartedMain] [ConditionEvaluationReportLoggingListener:136] - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+ERROR 21-03-31 10:20:14[restartedMain] [LoggingFailureAnalysisReporter:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field sampleService in com.example.demo.sample.SampleController required a bean of type 'com.example.demo.sample.SampleService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.example.demo.sample.SampleService' in your configuration.
+
+INFO  21-03-31 10:20:29[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 14760 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 10:20:29[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 10:20:30[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 10050 (http)
+INFO  21-03-31 10:20:30[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:20:30[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 10:20:30[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 10:20:30[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 10:20:30[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 10:20:30[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 10:20:30[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 10:20:30[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 10:20:30[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 10:20:30[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 138 ms
+WARN  21-03-31 10:20:30[restartedMain] [AnnotationConfigServletWebServerApplicationContext:591] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sampleController': Unsatisfied dependency expressed through field 'sampleService'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.example.demo.sample.SampleService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+INFO  21-03-31 10:20:30[restartedMain] [StandardService:173] - Stopping service [Tomcat]
+INFO  21-03-31 10:20:30[restartedMain] [ConditionEvaluationReportLoggingListener:136] - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+ERROR 21-03-31 10:20:30[restartedMain] [LoggingFailureAnalysisReporter:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field sampleService in com.example.demo.sample.SampleController required a bean of type 'com.example.demo.sample.SampleService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.example.demo.sample.SampleService' in your configuration.
+
+INFO  21-03-31 10:22:35[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 14760 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 10:22:35[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 10:22:35[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 10050 (http)
+INFO  21-03-31 10:22:35[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:22:35[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 10:22:35[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 10:22:35[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 10:22:35[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 10:22:35[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 10:22:35[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 10:22:35[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 10:22:35[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 10:22:35[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 204 ms
+WARN  21-03-31 10:22:35[restartedMain] [AnnotationConfigServletWebServerApplicationContext:591] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sampleController': Unsatisfied dependency expressed through field 'sampleService'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.example.demo.sample.SampleService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+INFO  21-03-31 10:22:35[restartedMain] [StandardService:173] - Stopping service [Tomcat]
+INFO  21-03-31 10:22:35[restartedMain] [ConditionEvaluationReportLoggingListener:136] - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+ERROR 21-03-31 10:22:35[restartedMain] [LoggingFailureAnalysisReporter:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field sampleService in com.example.demo.sample.SampleController required a bean of type 'com.example.demo.sample.SampleService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.example.demo.sample.SampleService' in your configuration.
+
+INFO  21-03-31 10:22:42[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 14760 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 10:22:42[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 10:22:42[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 10050 (http)
+INFO  21-03-31 10:22:42[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:22:42[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 10:22:42[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 10:22:42[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 10:22:42[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 10:22:42[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 10:22:42[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 10:22:42[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 10:22:42[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 10:22:42[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 173 ms
+WARN  21-03-31 10:22:42[restartedMain] [AnnotationConfigServletWebServerApplicationContext:591] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'sampleController': Unsatisfied dependency expressed through field 'sampleService'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.example.demo.sample.SampleService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+INFO  21-03-31 10:22:42[restartedMain] [StandardService:173] - Stopping service [Tomcat]
+INFO  21-03-31 10:22:42[restartedMain] [ConditionEvaluationReportLoggingListener:136] - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+ERROR 21-03-31 10:22:42[restartedMain] [LoggingFailureAnalysisReporter:40] - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field sampleService in com.example.demo.sample.SampleController required a bean of type 'com.example.demo.sample.SampleService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.example.demo.sample.SampleService' in your configuration.
+
+INFO  21-03-31 10:23:40[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 14760 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 10:23:40[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 10:23:40[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 10050 (http)
+INFO  21-03-31 10:23:40[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:23:40[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 10:23:40[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 10:23:40[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 10:23:40[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 10:23:40[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 10:23:40[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 10:23:40[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 10:23:40[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 10:23:40[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 159 ms
+INFO  21-03-31 10:23:40[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:23:40[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-03-31 10:23:40[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:23:40[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 10050 (http) with context path '/demo'
+INFO  21-03-31 10:23:40[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.25 seconds (JVM running for 1066.531)
+INFO  21-03-31 10:23:40[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-03-31 10:33:12[Thread-48] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:33:12[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 14760 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 10:33:12[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 10:33:12[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 10050 (http)
+INFO  21-03-31 10:33:12[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:33:12[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 10:33:12[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 10:33:12[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 10:33:12[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 10:33:12[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 10:33:12[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 10:33:12[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 10:33:12[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 10:33:12[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 160 ms
+INFO  21-03-31 10:33:12[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:33:12[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-03-31 10:33:12[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:33:12[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 10050 (http) with context path '/demo'
+INFO  21-03-31 10:33:12[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.246 seconds (JVM running for 1638.777)
+INFO  21-03-31 10:33:12[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-03-31 10:34:38[Thread-71] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:34:38[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 14760 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 10:34:38[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 10:34:39[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 10050 (http)
+INFO  21-03-31 10:34:39[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:34:39[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 10:34:39[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 10:34:39[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 10:34:39[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 10:34:39[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 10:34:39[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 10:34:39[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 10:34:39[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 10:34:39[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 147 ms
+INFO  21-03-31 10:34:39[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:34:39[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-03-31 10:34:39[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:34:39[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 10050 (http) with context path '/demo'
+INFO  21-03-31 10:34:39[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.232 seconds (JVM running for 1725.218)
+INFO  21-03-31 10:34:39[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-03-31 10:38:10[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 6892 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 10:38:10[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 10:38:10[restartedMain] [DevToolsPropertyDefaultsPostProcessor:255] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+INFO  21-03-31 10:38:10[restartedMain] [DevToolsPropertyDefaultsPostProcessor:255] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+ERROR 21-03-31 10:38:10[restartedMain] [SpringApplication:858] - Application run failed
+java.lang.IllegalStateException: Error processing condition on org.springframework.boot.autoconfigure.web.client.RestTemplateAutoConfiguration.restTemplateBuilderConfigurer
+	at org.springframework.boot.autoconfigure.condition.SpringBootCondition.matches(SpringBootCondition.java:60)
+	at org.springframework.context.annotation.ConditionEvaluator.shouldSkip(ConditionEvaluator.java:108)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsForBeanMethod(ConfigurationClassBeanDefinitionReader.java:193)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsForConfigurationClass(ConfigurationClassBeanDefinitionReader.java:153)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitions(ConfigurationClassBeanDefinitionReader.java:129)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:343)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:247)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:311)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:112)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:746)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:564)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:144)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:769)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:426)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:326)
+	at com.example.demo.DemoApplication.main(DemoApplication.java:15)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [org.springframework.boot.autoconfigure.transaction.TransactionAutoConfiguration] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@2437c6dc]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:481)
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:358)
+	at org.springframework.util.ReflectionUtils.getUniqueDeclaredMethods(ReflectionUtils.java:414)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.lambda$getTypeForFactoryMethod$2(AbstractAutowireCapableBeanFactory.java:747)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1737)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.getTypeForFactoryMethod(AbstractAutowireCapableBeanFactory.java:746)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineTargetType(AbstractAutowireCapableBeanFactory.java:685)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.predictBeanType(AbstractAutowireCapableBeanFactory.java:656)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.isFactoryBean(AbstractBeanFactory.java:1670)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doGetBeanNamesForType(DefaultListableBeanFactory.java:570)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanNamesForType(DefaultListableBeanFactory.java:542)
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.collectBeanNamesForType(OnBeanCondition.java:238)
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.getBeanNamesForType(OnBeanCondition.java:231)
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.getBeanNamesForType(OnBeanCondition.java:221)
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.getMatchingBeans(OnBeanCondition.java:169)
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.getMatchOutcome(OnBeanCondition.java:144)
+	at org.springframework.boot.autoconfigure.condition.SpringBootCondition.matches(SpringBootCondition.java:47)
+	... 21 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: org/springframework/transaction/ReactiveTransactionManager
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3167)
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2310)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:463)
+	... 37 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.transaction.ReactiveTransactionManager
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:583)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 41 common frames omitted
+WARN  21-03-31 10:38:10[restartedMain] [SpringApplication:830] - Unable to close ApplicationContext
+java.lang.IllegalStateException: Failed to introspect Class [org.springframework.boot.autoconfigure.transaction.TransactionAutoConfiguration] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@2437c6dc]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:481)
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:358)
+	at org.springframework.util.ReflectionUtils.getUniqueDeclaredMethods(ReflectionUtils.java:414)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.lambda$getTypeForFactoryMethod$2(AbstractAutowireCapableBeanFactory.java:747)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1737)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.getTypeForFactoryMethod(AbstractAutowireCapableBeanFactory.java:746)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineTargetType(AbstractAutowireCapableBeanFactory.java:685)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.predictBeanType(AbstractAutowireCapableBeanFactory.java:656)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.isFactoryBean(AbstractBeanFactory.java:1670)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doGetBeanNamesForType(DefaultListableBeanFactory.java:570)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanNamesForType(DefaultListableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeansOfType(DefaultListableBeanFactory.java:667)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeansOfType(DefaultListableBeanFactory.java:659)
+	at org.springframework.context.support.AbstractApplicationContext.getBeansOfType(AbstractApplicationContext.java:1300)
+	at org.springframework.boot.SpringApplication.getExitCodeFromMappedException(SpringApplication.java:901)
+	at org.springframework.boot.SpringApplication.getExitCodeFromException(SpringApplication.java:889)
+	at org.springframework.boot.SpringApplication.handleExitCode(SpringApplication.java:876)
+	at org.springframework.boot.SpringApplication.handleRunFailure(SpringApplication.java:817)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:336)
+	at com.example.demo.DemoApplication.main(DemoApplication.java:15)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.lang.NoClassDefFoundError: org/springframework/transaction/ReactiveTransactionManager
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3167)
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2310)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:463)
+	... 24 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.transaction.ReactiveTransactionManager
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:583)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 28 common frames omitted
+INFO  21-03-31 10:38:59[Thread-76] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:38:59[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 14760 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 10:38:59[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 10:38:59[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 10050 (http)
+INFO  21-03-31 10:38:59[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:38:59[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 10:38:59[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 10:38:59[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 10:38:59[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 10:38:59[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 10:38:59[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 10:38:59[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 10:38:59[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 10:38:59[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 161 ms
+INFO  21-03-31 10:38:59[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:38:59[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-03-31 10:38:59[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:38:59[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 10050 (http) with context path '/demo'
+INFO  21-03-31 10:38:59[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.225 seconds (JVM running for 1985.9)
+INFO  21-03-31 10:38:59[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-03-31 10:39:03[RMI TCP Connection(2)-127.0.0.1] [SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin:159] - Application shutdown requested.
+INFO  21-03-31 10:39:03[RMI TCP Connection(2)-127.0.0.1] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:39:11[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 8476 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 10:39:11[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 10:39:11[restartedMain] [DevToolsPropertyDefaultsPostProcessor:255] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+INFO  21-03-31 10:39:11[restartedMain] [DevToolsPropertyDefaultsPostProcessor:255] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+ERROR 21-03-31 10:39:12[restartedMain] [SpringApplication:858] - Application run failed
+java.lang.IllegalStateException: Error processing condition on org.springframework.boot.autoconfigure.web.client.RestTemplateAutoConfiguration.restTemplateBuilderConfigurer
+	at org.springframework.boot.autoconfigure.condition.SpringBootCondition.matches(SpringBootCondition.java:60)
+	at org.springframework.context.annotation.ConditionEvaluator.shouldSkip(ConditionEvaluator.java:108)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsForBeanMethod(ConfigurationClassBeanDefinitionReader.java:193)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsForConfigurationClass(ConfigurationClassBeanDefinitionReader.java:153)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitions(ConfigurationClassBeanDefinitionReader.java:129)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:343)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:247)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:311)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:112)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:746)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:564)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:144)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:769)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:426)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:326)
+	at com.example.demo.DemoApplication.main(DemoApplication.java:15)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [org.springframework.boot.autoconfigure.transaction.TransactionAutoConfiguration] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@2437c6dc]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:481)
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:358)
+	at org.springframework.util.ReflectionUtils.getUniqueDeclaredMethods(ReflectionUtils.java:414)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.lambda$getTypeForFactoryMethod$2(AbstractAutowireCapableBeanFactory.java:747)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1705)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.getTypeForFactoryMethod(AbstractAutowireCapableBeanFactory.java:746)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineTargetType(AbstractAutowireCapableBeanFactory.java:685)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.predictBeanType(AbstractAutowireCapableBeanFactory.java:656)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.isFactoryBean(AbstractBeanFactory.java:1670)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doGetBeanNamesForType(DefaultListableBeanFactory.java:570)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanNamesForType(DefaultListableBeanFactory.java:542)
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.collectBeanNamesForType(OnBeanCondition.java:238)
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.getBeanNamesForType(OnBeanCondition.java:231)
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.getBeanNamesForType(OnBeanCondition.java:221)
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.getMatchingBeans(OnBeanCondition.java:169)
+	at org.springframework.boot.autoconfigure.condition.OnBeanCondition.getMatchOutcome(OnBeanCondition.java:144)
+	at org.springframework.boot.autoconfigure.condition.SpringBootCondition.matches(SpringBootCondition.java:47)
+	... 21 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: org/springframework/transaction/ReactiveTransactionManager
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3167)
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2310)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:463)
+	... 37 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.transaction.ReactiveTransactionManager
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:583)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 41 common frames omitted
+WARN  21-03-31 10:39:12[restartedMain] [SpringApplication:830] - Unable to close ApplicationContext
+java.lang.IllegalStateException: Failed to introspect Class [org.springframework.boot.autoconfigure.transaction.TransactionAutoConfiguration] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@2437c6dc]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:481)
+	at org.springframework.util.ReflectionUtils.doWithMethods(ReflectionUtils.java:358)
+	at org.springframework.util.ReflectionUtils.getUniqueDeclaredMethods(ReflectionUtils.java:414)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.lambda$getTypeForFactoryMethod$2(AbstractAutowireCapableBeanFactory.java:747)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1705)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.getTypeForFactoryMethod(AbstractAutowireCapableBeanFactory.java:746)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineTargetType(AbstractAutowireCapableBeanFactory.java:685)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.predictBeanType(AbstractAutowireCapableBeanFactory.java:656)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.isFactoryBean(AbstractBeanFactory.java:1670)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doGetBeanNamesForType(DefaultListableBeanFactory.java:570)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanNamesForType(DefaultListableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeansOfType(DefaultListableBeanFactory.java:667)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeansOfType(DefaultListableBeanFactory.java:659)
+	at org.springframework.context.support.AbstractApplicationContext.getBeansOfType(AbstractApplicationContext.java:1300)
+	at org.springframework.boot.SpringApplication.getExitCodeFromMappedException(SpringApplication.java:901)
+	at org.springframework.boot.SpringApplication.getExitCodeFromException(SpringApplication.java:889)
+	at org.springframework.boot.SpringApplication.handleExitCode(SpringApplication.java:876)
+	at org.springframework.boot.SpringApplication.handleRunFailure(SpringApplication.java:817)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:336)
+	at com.example.demo.DemoApplication.main(DemoApplication.java:15)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.lang.NoClassDefFoundError: org/springframework/transaction/ReactiveTransactionManager
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3167)
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2310)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:463)
+	... 24 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.transaction.ReactiveTransactionManager
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:583)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:178)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	... 28 common frames omitted
+INFO  21-03-31 10:53:27[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 12668 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 10:53:27[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 10:53:27[restartedMain] [DevToolsPropertyDefaultsPostProcessor:255] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+INFO  21-03-31 10:53:27[restartedMain] [DevToolsPropertyDefaultsPostProcessor:255] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+INFO  21-03-31 10:53:27[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 10050 (http)
+INFO  21-03-31 10:53:27[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:53:27[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 10:53:27[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 10:53:27[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 10:53:27[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 10:53:27[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 10:53:27[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 10:53:27[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 10:53:28[restartedMain] [TldScanner:173] - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+INFO  21-03-31 10:53:28[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 10:53:28[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 926 ms
+INFO  21-03-31 10:53:28[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:53:28[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-03-31 10:53:28[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:53:28[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 10050 (http) with context path '/demo'
+INFO  21-03-31 10:53:28[restartedMain] [DemoApplication:61] - Started DemoApplication in 1.705 seconds (JVM running for 3.123)
+INFO  21-03-31 10:54:05[Thread-5] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:54:05[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 12668 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 10:54:05[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 10:54:05[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 10050 (http)
+INFO  21-03-31 10:54:05[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:54:05[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 10:54:05[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 10:54:05[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 10:54:05[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 10:54:05[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 10:54:05[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 10:54:05[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 10:54:05[restartedMain] [TldScanner:173] - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+INFO  21-03-31 10:54:05[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 10:54:05[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 228 ms
+INFO  21-03-31 10:54:05[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:54:05[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-03-31 10:54:05[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:54:05[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 10050 (http) with context path '/demo'
+INFO  21-03-31 10:54:05[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.346 seconds (JVM running for 40.442)
+INFO  21-03-31 10:54:05[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-03-31 10:54:25[RMI TCP Connection(2)-127.0.0.1] [SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin:159] - Application shutdown requested.
+INFO  21-03-31 10:54:26[RMI TCP Connection(2)-127.0.0.1] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:54:34[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 14832 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 10:54:34[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 10:54:34[restartedMain] [DevToolsPropertyDefaultsPostProcessor:255] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+INFO  21-03-31 10:54:34[restartedMain] [DevToolsPropertyDefaultsPostProcessor:255] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+INFO  21-03-31 10:54:36[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 10050 (http)
+INFO  21-03-31 10:54:36[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:54:36[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 10:54:36[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 10:54:36[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 10:54:36[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 10:54:36[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 10:54:36[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 10:54:36[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 10:54:36[restartedMain] [TldScanner:173] - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+INFO  21-03-31 10:54:36[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 10:54:36[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 2239 ms
+INFO  21-03-31 10:54:37[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:54:37[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-03-31 10:54:37[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-10050"]
+INFO  21-03-31 10:54:37[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 10050 (http) with context path '/demo'
+INFO  21-03-31 10:54:37[restartedMain] [DemoApplication:61] - Started DemoApplication in 3.408 seconds (JVM running for 4.185)
+INFO  21-03-31 10:54:59[Thread-5] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:54:59[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 14832 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 10:54:59[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 10:54:59[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 9090 (http)
+INFO  21-03-31 10:54:59[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-9090"]
+INFO  21-03-31 10:54:59[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 10:54:59[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 10:54:59[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 10:54:59[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 10:54:59[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 10:54:59[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 10:54:59[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 10:54:59[restartedMain] [TldScanner:173] - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+INFO  21-03-31 10:54:59[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 10:54:59[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 437 ms
+INFO  21-03-31 10:54:59[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:54:59[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-03-31 10:54:59[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-9090"]
+INFO  21-03-31 10:54:59[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 9090 (http) with context path '/demo'
+INFO  21-03-31 10:54:59[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.634 seconds (JVM running for 26.495)
+INFO  21-03-31 10:54:59[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-03-31 10:56:22[Thread-8] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:56:22[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 14832 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 10:56:22[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 10:56:22[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 9090 (http)
+INFO  21-03-31 10:56:22[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-9090"]
+INFO  21-03-31 10:56:22[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 10:56:22[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 10:56:22[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 10:56:22[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 10:56:22[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 10:56:22[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 10:56:22[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 10:56:22[restartedMain] [TldScanner:173] - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+INFO  21-03-31 10:56:22[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 10:56:22[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 326 ms
+INFO  21-03-31 10:56:22[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:56:22[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-03-31 10:56:22[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-9090"]
+INFO  21-03-31 10:56:22[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 9090 (http) with context path '/demo'
+INFO  21-03-31 10:56:22[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.516 seconds (JVM running for 109.681)
+INFO  21-03-31 10:56:22[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-03-31 10:57:57[Thread-13] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:57:57[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 14832 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 10:57:57[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 10:57:58[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 9090 (http)
+INFO  21-03-31 10:57:58[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-9090"]
+INFO  21-03-31 10:57:58[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 10:57:58[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 10:57:58[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 10:57:58[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 10:57:58[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 10:57:58[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 10:57:58[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 10:57:58[restartedMain] [TldScanner:173] - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+INFO  21-03-31 10:57:58[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 10:57:58[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 366 ms
+INFO  21-03-31 10:57:58[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:57:58[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-03-31 10:57:58[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-9090"]
+INFO  21-03-31 10:57:58[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 9090 (http) with context path '/demo'
+INFO  21-03-31 10:57:58[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.532 seconds (JVM running for 205.011)
+INFO  21-03-31 10:57:58[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-03-31 10:59:26[Thread-18] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:59:26[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 14832 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 10:59:26[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 10:59:26[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 9090 (http)
+INFO  21-03-31 10:59:26[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-9090"]
+INFO  21-03-31 10:59:26[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 10:59:26[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 10:59:26[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 10:59:26[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 10:59:26[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 10:59:26[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 10:59:26[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 10:59:26[restartedMain] [TldScanner:173] - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+INFO  21-03-31 10:59:26[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 10:59:26[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 343 ms
+INFO  21-03-31 10:59:26[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 10:59:26[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-03-31 10:59:26[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-9090"]
+INFO  21-03-31 10:59:26[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 9090 (http) with context path '/demo'
+INFO  21-03-31 10:59:26[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.52 seconds (JVM running for 293.552)
+INFO  21-03-31 10:59:26[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-03-31 11:00:30[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 6324 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 11:00:30[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 11:00:30[restartedMain] [DevToolsPropertyDefaultsPostProcessor:255] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+INFO  21-03-31 11:00:30[restartedMain] [DevToolsPropertyDefaultsPostProcessor:255] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+INFO  21-03-31 11:00:31[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 9090 (http)
+INFO  21-03-31 11:00:31[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-9090"]
+INFO  21-03-31 11:00:31[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 11:00:31[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 11:00:31[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 11:00:31[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 11:00:31[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 11:00:31[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 11:00:31[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 11:00:31[restartedMain] [TldScanner:173] - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+INFO  21-03-31 11:00:31[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 11:00:31[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 836 ms
+INFO  21-03-31 11:00:31[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 11:00:31[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-03-31 11:00:31[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-9090"]
+INFO  21-03-31 11:00:31[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 9090 (http) with context path '/demo'
+INFO  21-03-31 11:00:31[restartedMain] [DemoApplication:61] - Started DemoApplication in 1.62 seconds (JVM running for 2.995)
+INFO  21-03-31 11:00:44[http-nio-9090-exec-2] [[/demo]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+INFO  21-03-31 11:00:44[http-nio-9090-exec-2] [DispatcherServlet:525] - Initializing Servlet 'dispatcherServlet'
+INFO  21-03-31 11:00:44[http-nio-9090-exec-2] [DispatcherServlet:547] - Completed initialization in 1 ms
+INFO  21-03-31 11:01:02[Thread-5] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 11:01:02[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 6324 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 11:01:02[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 11:01:02[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 9090 (http)
+INFO  21-03-31 11:01:02[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-9090"]
+INFO  21-03-31 11:01:02[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 11:01:02[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 11:01:02[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 11:01:02[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 11:01:02[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 11:01:02[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 11:01:02[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 11:01:02[restartedMain] [TldScanner:173] - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+INFO  21-03-31 11:01:02[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 11:01:02[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 259 ms
+INFO  21-03-31 11:01:02[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 11:01:02[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-03-31 11:01:02[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-9090"]
+INFO  21-03-31 11:01:02[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 9090 (http) with context path '/demo'
+INFO  21-03-31 11:01:02[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.392 seconds (JVM running for 34.096)
+INFO  21-03-31 11:01:02[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-03-31 11:01:04[http-nio-9090-exec-1] [[/demo]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+INFO  21-03-31 11:01:04[http-nio-9090-exec-1] [DispatcherServlet:525] - Initializing Servlet 'dispatcherServlet'
+INFO  21-03-31 11:01:04[http-nio-9090-exec-1] [DispatcherServlet:547] - Completed initialization in 0 ms
+INFO  21-03-31 11:01:04[http-nio-9090-exec-1] [SampleController:20] - this is test method
+ERROR 21-03-31 11:01:04[http-nio-9090-exec-1] [[dispatcherServlet]:175] - Servlet.service() for servlet [dispatcherServlet] in context with path [/demo] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at com.example.demo.sample.SampleServiceImpl.getList(SampleServiceImpl.java:19)
+	at com.example.demo.sample.SampleController.test(SampleController.java:22)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1060)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:962)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+INFO  21-03-31 11:01:28[Thread-8] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 11:01:28[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 6324 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 11:01:28[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 11:01:28[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 9090 (http)
+INFO  21-03-31 11:01:28[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-9090"]
+INFO  21-03-31 11:01:28[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 11:01:28[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 11:01:28[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 11:01:28[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 11:01:28[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 11:01:28[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 11:01:28[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 11:01:28[restartedMain] [TldScanner:173] - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+INFO  21-03-31 11:01:28[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 11:01:28[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 280 ms
+INFO  21-03-31 11:01:28[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 11:01:28[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-03-31 11:01:28[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-9090"]
+INFO  21-03-31 11:01:28[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 9090 (http) with context path '/demo'
+INFO  21-03-31 11:01:28[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.453 seconds (JVM running for 60.206)
+INFO  21-03-31 11:01:28[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-03-31 11:01:31[Thread-13] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 11:01:31[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 6324 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 11:01:31[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 11:01:31[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 9090 (http)
+INFO  21-03-31 11:01:31[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-9090"]
+INFO  21-03-31 11:01:31[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 11:01:31[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 11:01:31[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 11:01:31[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 11:01:31[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 11:01:31[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 11:01:31[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 11:01:31[restartedMain] [TldScanner:173] - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+INFO  21-03-31 11:01:31[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 11:01:31[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 210 ms
+INFO  21-03-31 11:01:31[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 11:01:31[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-03-31 11:01:31[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-9090"]
+INFO  21-03-31 11:01:31[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 9090 (http) with context path '/demo'
+INFO  21-03-31 11:01:31[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.301 seconds (JVM running for 62.775)
+INFO  21-03-31 11:01:31[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-03-31 11:10:07[Thread-18] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 11:10:07[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 6324 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 11:10:07[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 11:10:07[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 9090 (http)
+INFO  21-03-31 11:10:07[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-9090"]
+INFO  21-03-31 11:10:07[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 11:10:07[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 11:10:07[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 11:10:07[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 11:10:07[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 11:10:07[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 11:10:07[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 11:10:07[restartedMain] [TldScanner:173] - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+INFO  21-03-31 11:10:07[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 11:10:07[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 209 ms
+INFO  21-03-31 11:10:07[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 11:10:07[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-03-31 11:10:07[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-9090"]
+INFO  21-03-31 11:10:07[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 9090 (http) with context path '/demo'
+INFO  21-03-31 11:10:07[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.328 seconds (JVM running for 579.011)
+INFO  21-03-31 11:10:07[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-03-31 11:10:10[http-nio-9090-exec-1] [[/demo]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+INFO  21-03-31 11:10:10[http-nio-9090-exec-1] [DispatcherServlet:525] - Initializing Servlet 'dispatcherServlet'
+INFO  21-03-31 11:10:10[http-nio-9090-exec-1] [DispatcherServlet:547] - Completed initialization in 1 ms
+INFO  21-03-31 11:10:10[http-nio-9090-exec-1] [SampleController:20] - this is test method
+WARN  21-03-31 11:10:11[http-nio-9090-exec-1] [SessionIdGeneratorBase:173] - Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [823] milliseconds.
+INFO  21-03-31 11:11:32[Thread-23] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 11:11:32[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 6324 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 11:11:32[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 11:11:32[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 9090 (http)
+INFO  21-03-31 11:11:32[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-9090"]
+INFO  21-03-31 11:11:32[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 11:11:32[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 11:11:32[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 11:11:32[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 11:11:32[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 11:11:32[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 11:11:32[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 11:11:32[restartedMain] [TldScanner:173] - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+INFO  21-03-31 11:11:32[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 11:11:32[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 249 ms
+INFO  21-03-31 11:11:32[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 11:11:32[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-03-31 11:11:32[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-9090"]
+INFO  21-03-31 11:11:32[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 9090 (http) with context path '/demo'
+INFO  21-03-31 11:11:32[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.346 seconds (JVM running for 664.038)
+INFO  21-03-31 11:11:32[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-03-31 11:14:54[http-nio-9090-exec-1] [[/demo]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+INFO  21-03-31 11:14:54[http-nio-9090-exec-1] [DispatcherServlet:525] - Initializing Servlet 'dispatcherServlet'
+INFO  21-03-31 11:14:54[http-nio-9090-exec-1] [DispatcherServlet:547] - Completed initialization in 2 ms
+INFO  21-03-31 11:14:54[http-nio-9090-exec-1] [SampleController:20] - this is test method
+ERROR 21-03-31 11:14:54[http-nio-9090-exec-1] [[jsp]:175] - Servlet.service() for servlet [jsp] threw exception
+org.apache.jasper.JasperException: /WEB-INF/views/sample/sample.jsp (line: [25], column: [22]) quote symbol expected
+	at org.apache.jasper.compiler.DefaultErrorHandler.jspError(DefaultErrorHandler.java:42)
+	at org.apache.jasper.compiler.ErrorDispatcher.dispatch(ErrorDispatcher.java:292)
+	at org.apache.jasper.compiler.ErrorDispatcher.jspError(ErrorDispatcher.java:98)
+	at org.apache.jasper.compiler.Parser.parseAttribute(Parser.java:237)
+	at org.apache.jasper.compiler.Parser.parseAttributes(Parser.java:168)
+	at org.apache.jasper.compiler.Parser.parseAttributes(Parser.java:159)
+	at org.apache.jasper.compiler.Parser.parseCustomTag(Parser.java:1251)
+	at org.apache.jasper.compiler.Parser.parseElements(Parser.java:1470)
+	at org.apache.jasper.compiler.Parser.parseBody(Parser.java:1683)
+	at org.apache.jasper.compiler.Parser.parseOptionalBody(Parser.java:1016)
+	at org.apache.jasper.compiler.Parser.parseCustomTag(Parser.java:1291)
+	at org.apache.jasper.compiler.Parser.parseElements(Parser.java:1470)
+	at org.apache.jasper.compiler.Parser.parseBody(Parser.java:1683)
+	at org.apache.jasper.compiler.Parser.parseOptionalBody(Parser.java:1016)
+	at org.apache.jasper.compiler.Parser.parseCustomTag(Parser.java:1291)
+	at org.apache.jasper.compiler.Parser.parseElements(Parser.java:1470)
+	at org.apache.jasper.compiler.Parser.parseBody(Parser.java:1683)
+	at org.apache.jasper.compiler.Parser.parseOptionalBody(Parser.java:1016)
+	at org.apache.jasper.compiler.Parser.parseCustomTag(Parser.java:1291)
+	at org.apache.jasper.compiler.Parser.parseElements(Parser.java:1470)
+	at org.apache.jasper.compiler.Parser.parse(Parser.java:144)
+	at org.apache.jasper.compiler.ParserController.doParse(ParserController.java:244)
+	at org.apache.jasper.compiler.ParserController.parse(ParserController.java:105)
+	at org.apache.jasper.compiler.Compiler.generateJava(Compiler.java:206)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:386)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:362)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:346)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:605)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:400)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:378)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:326)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:113)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:113)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:113)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:710)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:457)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:384)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:312)
+	at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:171)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:316)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1393)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1138)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1077)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:962)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+ERROR 21-03-31 11:14:54[http-nio-9090-exec-1] [[dispatcherServlet]:175] - Servlet.service() for servlet [dispatcherServlet] in context with path [/demo] threw exception [/WEB-INF/views/sample/sample.jsp (line: [25], column: [22]) quote symbol expected] with root cause
+org.apache.jasper.JasperException: /WEB-INF/views/sample/sample.jsp (line: [25], column: [22]) quote symbol expected
+	at org.apache.jasper.compiler.DefaultErrorHandler.jspError(DefaultErrorHandler.java:42)
+	at org.apache.jasper.compiler.ErrorDispatcher.dispatch(ErrorDispatcher.java:292)
+	at org.apache.jasper.compiler.ErrorDispatcher.jspError(ErrorDispatcher.java:98)
+	at org.apache.jasper.compiler.Parser.parseAttribute(Parser.java:237)
+	at org.apache.jasper.compiler.Parser.parseAttributes(Parser.java:168)
+	at org.apache.jasper.compiler.Parser.parseAttributes(Parser.java:159)
+	at org.apache.jasper.compiler.Parser.parseCustomTag(Parser.java:1251)
+	at org.apache.jasper.compiler.Parser.parseElements(Parser.java:1470)
+	at org.apache.jasper.compiler.Parser.parseBody(Parser.java:1683)
+	at org.apache.jasper.compiler.Parser.parseOptionalBody(Parser.java:1016)
+	at org.apache.jasper.compiler.Parser.parseCustomTag(Parser.java:1291)
+	at org.apache.jasper.compiler.Parser.parseElements(Parser.java:1470)
+	at org.apache.jasper.compiler.Parser.parseBody(Parser.java:1683)
+	at org.apache.jasper.compiler.Parser.parseOptionalBody(Parser.java:1016)
+	at org.apache.jasper.compiler.Parser.parseCustomTag(Parser.java:1291)
+	at org.apache.jasper.compiler.Parser.parseElements(Parser.java:1470)
+	at org.apache.jasper.compiler.Parser.parseBody(Parser.java:1683)
+	at org.apache.jasper.compiler.Parser.parseOptionalBody(Parser.java:1016)
+	at org.apache.jasper.compiler.Parser.parseCustomTag(Parser.java:1291)
+	at org.apache.jasper.compiler.Parser.parseElements(Parser.java:1470)
+	at org.apache.jasper.compiler.Parser.parse(Parser.java:144)
+	at org.apache.jasper.compiler.ParserController.doParse(ParserController.java:244)
+	at org.apache.jasper.compiler.ParserController.parse(ParserController.java:105)
+	at org.apache.jasper.compiler.Compiler.generateJava(Compiler.java:206)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:386)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:362)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:346)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:605)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:400)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:378)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:326)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:113)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:113)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:113)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:710)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:457)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:384)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:312)
+	at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:171)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:316)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1393)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1138)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1077)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:962)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+INFO  21-03-31 11:16:07[http-nio-9090-exec-3] [SampleController:20] - this is test method
+ERROR 21-03-31 11:16:07[http-nio-9090-exec-3] [[jsp]:175] - Servlet.service() for servlet [jsp] threw exception
+org.apache.jasper.JasperException: /WEB-INF/views/sample/sample.jsp (line: [25], column: [22]) quote symbol expected
+	at org.apache.jasper.compiler.DefaultErrorHandler.jspError(DefaultErrorHandler.java:42)
+	at org.apache.jasper.compiler.ErrorDispatcher.dispatch(ErrorDispatcher.java:292)
+	at org.apache.jasper.compiler.ErrorDispatcher.jspError(ErrorDispatcher.java:98)
+	at org.apache.jasper.compiler.Parser.parseAttribute(Parser.java:237)
+	at org.apache.jasper.compiler.Parser.parseAttributes(Parser.java:168)
+	at org.apache.jasper.compiler.Parser.parseAttributes(Parser.java:159)
+	at org.apache.jasper.compiler.Parser.parseCustomTag(Parser.java:1251)
+	at org.apache.jasper.compiler.Parser.parseElements(Parser.java:1470)
+	at org.apache.jasper.compiler.Parser.parseBody(Parser.java:1683)
+	at org.apache.jasper.compiler.Parser.parseOptionalBody(Parser.java:1016)
+	at org.apache.jasper.compiler.Parser.parseCustomTag(Parser.java:1291)
+	at org.apache.jasper.compiler.Parser.parseElements(Parser.java:1470)
+	at org.apache.jasper.compiler.Parser.parseBody(Parser.java:1683)
+	at org.apache.jasper.compiler.Parser.parseOptionalBody(Parser.java:1016)
+	at org.apache.jasper.compiler.Parser.parseCustomTag(Parser.java:1291)
+	at org.apache.jasper.compiler.Parser.parseElements(Parser.java:1470)
+	at org.apache.jasper.compiler.Parser.parseBody(Parser.java:1683)
+	at org.apache.jasper.compiler.Parser.parseOptionalBody(Parser.java:1016)
+	at org.apache.jasper.compiler.Parser.parseCustomTag(Parser.java:1291)
+	at org.apache.jasper.compiler.Parser.parseElements(Parser.java:1470)
+	at org.apache.jasper.compiler.Parser.parse(Parser.java:144)
+	at org.apache.jasper.compiler.ParserController.doParse(ParserController.java:244)
+	at org.apache.jasper.compiler.ParserController.parse(ParserController.java:105)
+	at org.apache.jasper.compiler.Compiler.generateJava(Compiler.java:206)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:386)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:362)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:346)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:605)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:400)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:378)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:326)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:113)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:113)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:113)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:710)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:457)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:384)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:312)
+	at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:171)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:316)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1393)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1138)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1077)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:962)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+ERROR 21-03-31 11:16:07[http-nio-9090-exec-3] [[dispatcherServlet]:175] - Servlet.service() for servlet [dispatcherServlet] in context with path [/demo] threw exception [/WEB-INF/views/sample/sample.jsp (line: [25], column: [22]) quote symbol expected] with root cause
+org.apache.jasper.JasperException: /WEB-INF/views/sample/sample.jsp (line: [25], column: [22]) quote symbol expected
+	at org.apache.jasper.compiler.DefaultErrorHandler.jspError(DefaultErrorHandler.java:42)
+	at org.apache.jasper.compiler.ErrorDispatcher.dispatch(ErrorDispatcher.java:292)
+	at org.apache.jasper.compiler.ErrorDispatcher.jspError(ErrorDispatcher.java:98)
+	at org.apache.jasper.compiler.Parser.parseAttribute(Parser.java:237)
+	at org.apache.jasper.compiler.Parser.parseAttributes(Parser.java:168)
+	at org.apache.jasper.compiler.Parser.parseAttributes(Parser.java:159)
+	at org.apache.jasper.compiler.Parser.parseCustomTag(Parser.java:1251)
+	at org.apache.jasper.compiler.Parser.parseElements(Parser.java:1470)
+	at org.apache.jasper.compiler.Parser.parseBody(Parser.java:1683)
+	at org.apache.jasper.compiler.Parser.parseOptionalBody(Parser.java:1016)
+	at org.apache.jasper.compiler.Parser.parseCustomTag(Parser.java:1291)
+	at org.apache.jasper.compiler.Parser.parseElements(Parser.java:1470)
+	at org.apache.jasper.compiler.Parser.parseBody(Parser.java:1683)
+	at org.apache.jasper.compiler.Parser.parseOptionalBody(Parser.java:1016)
+	at org.apache.jasper.compiler.Parser.parseCustomTag(Parser.java:1291)
+	at org.apache.jasper.compiler.Parser.parseElements(Parser.java:1470)
+	at org.apache.jasper.compiler.Parser.parseBody(Parser.java:1683)
+	at org.apache.jasper.compiler.Parser.parseOptionalBody(Parser.java:1016)
+	at org.apache.jasper.compiler.Parser.parseCustomTag(Parser.java:1291)
+	at org.apache.jasper.compiler.Parser.parseElements(Parser.java:1470)
+	at org.apache.jasper.compiler.Parser.parse(Parser.java:144)
+	at org.apache.jasper.compiler.ParserController.doParse(ParserController.java:244)
+	at org.apache.jasper.compiler.ParserController.parse(ParserController.java:105)
+	at org.apache.jasper.compiler.Compiler.generateJava(Compiler.java:206)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:386)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:362)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:346)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:605)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:400)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:378)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:326)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:113)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:113)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:113)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:710)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:457)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:384)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:312)
+	at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:171)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:316)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1393)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1138)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1077)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:962)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+INFO  21-03-31 11:17:01[http-nio-9090-exec-4] [SampleController:20] - this is test method
+ERROR 21-03-31 11:17:01[http-nio-9090-exec-4] [[jsp]:175] - Servlet.service() for servlet [jsp] threw exception
+javax.servlet.jsp.JspTagException: Illegal use of &lt;when&gt;-style tag without &lt;choose&gt; as its direct parent
+	at org.apache.taglibs.standard.tag.common.core.WhenTagSupport.doStartTag(WhenTagSupport.java:66)
+	at org.apache.jsp.WEB_002dINF.views.sample.sample_jsp._jspx_meth_c_005fwhen_005f1(sample_jsp.java:346)
+	at org.apache.jsp.WEB_002dINF.views.sample.sample_jsp._jspx_meth_c_005fforEach_005f0(sample_jsp.java:281)
+	at org.apache.jsp.WEB_002dINF.views.sample.sample_jsp._jspx_meth_c_005fwhen_005f0(sample_jsp.java:238)
+	at org.apache.jsp.WEB_002dINF.views.sample.sample_jsp._jspx_meth_c_005fchoose_005f0(sample_jsp.java:197)
+	at org.apache.jsp.WEB_002dINF.views.sample.sample_jsp._jspService(sample_jsp.java:154)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:71)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:467)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:378)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:326)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:113)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:113)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:113)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:710)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:457)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:384)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:312)
+	at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:171)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:316)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1393)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1138)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1077)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:962)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+ERROR 21-03-31 11:17:01[http-nio-9090-exec-4] [[dispatcherServlet]:175] - Servlet.service() for servlet [dispatcherServlet] in context with path [/demo] threw exception [An exception occurred processing [/WEB-INF/views/sample/sample.jsp] at line [25]
+
+22: 					<c:forEach items="${LIST }" var="data">
+23: 						<tr>
+24: 							<td>
+25: 								<c:when test="${not empty data.seq }">
+26: 									${data.seq }
+27: 								</c:when>
+28: 								<c:otherwise>
+
+
+Stacktrace:] with root cause
+javax.servlet.jsp.JspTagException: Illegal use of &lt;when&gt;-style tag without &lt;choose&gt; as its direct parent
+	at org.apache.taglibs.standard.tag.common.core.WhenTagSupport.doStartTag(WhenTagSupport.java:66)
+	at org.apache.jsp.WEB_002dINF.views.sample.sample_jsp._jspx_meth_c_005fwhen_005f1(sample_jsp.java:346)
+	at org.apache.jsp.WEB_002dINF.views.sample.sample_jsp._jspx_meth_c_005fforEach_005f0(sample_jsp.java:281)
+	at org.apache.jsp.WEB_002dINF.views.sample.sample_jsp._jspx_meth_c_005fwhen_005f0(sample_jsp.java:238)
+	at org.apache.jsp.WEB_002dINF.views.sample.sample_jsp._jspx_meth_c_005fchoose_005f0(sample_jsp.java:197)
+	at org.apache.jsp.WEB_002dINF.views.sample.sample_jsp._jspService(sample_jsp.java:154)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:71)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:467)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:378)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:326)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:113)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:113)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:113)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:710)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:457)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:384)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:312)
+	at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:171)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:316)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1393)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1138)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1077)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:962)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+INFO  21-03-31 11:18:30[http-nio-9090-exec-6] [SampleController:20] - this is test method
+INFO  21-03-31 11:18:50[Thread-28] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 11:18:50[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 6324 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 11:18:50[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 11:18:50[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 9090 (http)
+INFO  21-03-31 11:18:50[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-9090"]
+INFO  21-03-31 11:18:50[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 11:18:50[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 11:18:50[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 11:18:50[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 11:18:50[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 11:18:50[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 11:18:50[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 11:18:50[restartedMain] [TldScanner:173] - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+INFO  21-03-31 11:18:50[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 11:18:50[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 246 ms
+INFO  21-03-31 11:18:51[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 11:18:51[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-03-31 11:18:51[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-9090"]
+INFO  21-03-31 11:18:51[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 9090 (http) with context path '/demo'
+INFO  21-03-31 11:18:51[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.339 seconds (JVM running for 1102.406)
+INFO  21-03-31 11:18:51[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-03-31 11:18:55[http-nio-9090-exec-1] [[/demo]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+INFO  21-03-31 11:18:55[http-nio-9090-exec-1] [DispatcherServlet:525] - Initializing Servlet 'dispatcherServlet'
+INFO  21-03-31 11:18:55[http-nio-9090-exec-1] [DispatcherServlet:547] - Completed initialization in 0 ms
+INFO  21-03-31 11:18:55[http-nio-9090-exec-1] [SampleController:20] - this is test method
+INFO  21-03-31 11:18:56[http-nio-9090-exec-2] [SampleController:20] - this is test method
+INFO  21-03-31 11:18:56[http-nio-9090-exec-3] [SampleController:20] - this is test method
+INFO  21-03-31 11:19:27[Thread-33] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 11:19:27[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 6324 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 11:19:27[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 11:19:27[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 9090 (http)
+INFO  21-03-31 11:19:27[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-9090"]
+INFO  21-03-31 11:19:27[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 11:19:27[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 11:19:27[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 11:19:27[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 11:19:27[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 11:19:27[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 11:19:27[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 11:19:28[restartedMain] [TldScanner:173] - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+INFO  21-03-31 11:19:28[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 11:19:28[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 193 ms
+INFO  21-03-31 11:19:28[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 11:19:28[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-03-31 11:19:28[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-9090"]
+INFO  21-03-31 11:19:28[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 9090 (http) with context path '/demo'
+INFO  21-03-31 11:19:28[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.29 seconds (JVM running for 1139.463)
+INFO  21-03-31 11:19:28[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-03-31 11:19:32[http-nio-9090-exec-1] [[/demo]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+INFO  21-03-31 11:19:32[http-nio-9090-exec-1] [DispatcherServlet:525] - Initializing Servlet 'dispatcherServlet'
+INFO  21-03-31 11:19:32[http-nio-9090-exec-1] [DispatcherServlet:547] - Completed initialization in 1 ms
+INFO  21-03-31 11:19:32[http-nio-9090-exec-1] [SampleController:20] - this is test method
+INFO  21-03-31 11:19:53[Thread-38] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 11:19:53[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 6324 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 11:19:53[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 11:19:54[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 9090 (http)
+INFO  21-03-31 11:19:54[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-9090"]
+INFO  21-03-31 11:19:54[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 11:19:54[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 11:19:54[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 11:19:54[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 11:19:54[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 11:19:54[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 11:19:54[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 11:19:54[restartedMain] [TldScanner:173] - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+INFO  21-03-31 11:19:54[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 11:19:54[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 211 ms
+INFO  21-03-31 11:19:54[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 11:19:54[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-03-31 11:19:54[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-9090"]
+INFO  21-03-31 11:19:54[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 9090 (http) with context path '/demo'
+INFO  21-03-31 11:19:54[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.327 seconds (JVM running for 1165.572)
+INFO  21-03-31 11:19:54[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-03-31 11:19:54[http-nio-9090-exec-1] [[/demo]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+INFO  21-03-31 11:19:54[http-nio-9090-exec-1] [DispatcherServlet:525] - Initializing Servlet 'dispatcherServlet'
+INFO  21-03-31 11:19:54[http-nio-9090-exec-1] [DispatcherServlet:547] - Completed initialization in 1 ms
+INFO  21-03-31 11:19:54[http-nio-9090-exec-1] [SampleController:20] - this is test method
+INFO  21-03-31 11:20:11[Thread-43] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 11:20:11[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 6324 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 11:20:11[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 11:20:11[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 9090 (http)
+INFO  21-03-31 11:20:11[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-9090"]
+INFO  21-03-31 11:20:11[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 11:20:11[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 11:20:11[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 11:20:11[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 11:20:11[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 11:20:11[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 11:20:11[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 11:20:11[restartedMain] [TldScanner:173] - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+INFO  21-03-31 11:20:11[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 11:20:11[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 194 ms
+INFO  21-03-31 11:20:11[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 11:20:11[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-03-31 11:20:11[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-9090"]
+INFO  21-03-31 11:20:11[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 9090 (http) with context path '/demo'
+INFO  21-03-31 11:20:11[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.294 seconds (JVM running for 1183.325)
+INFO  21-03-31 11:20:11[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-03-31 11:20:13[http-nio-9090-exec-1] [[/demo]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+INFO  21-03-31 11:20:13[http-nio-9090-exec-1] [DispatcherServlet:525] - Initializing Servlet 'dispatcherServlet'
+INFO  21-03-31 11:20:13[http-nio-9090-exec-1] [DispatcherServlet:547] - Completed initialization in 1 ms
+INFO  21-03-31 11:20:13[http-nio-9090-exec-1] [SampleController:20] - this is test method
+INFO  21-03-31 11:20:14[http-nio-9090-exec-2] [SampleController:20] - this is test method
+INFO  21-03-31 11:38:40[Thread-48] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 11:38:40[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.2 on DESKTOP-TD2NHFL with PID 6324 (C:\ymk\toynumber\demo\target\classes started by geosoft205 in C:\ymk\toynumber\demo)
+INFO  21-03-31 11:38:40[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-03-31 11:38:40[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 9090 (http)
+INFO  21-03-31 11:38:40[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-9090"]
+INFO  21-03-31 11:38:40[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-03-31 11:38:40[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-03-31 11:38:40[restartedMain] [AprLifecycleListener:173] - An older version [1.2.18] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.23]
+INFO  21-03-31 11:38:40[restartedMain] [AprLifecycleListener:173] - Loaded Apache Tomcat Native library [1.2.18] using APR version [1.6.5].
+INFO  21-03-31 11:38:40[restartedMain] [AprLifecycleListener:173] - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+INFO  21-03-31 11:38:40[restartedMain] [AprLifecycleListener:173] - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+INFO  21-03-31 11:38:40[restartedMain] [AprLifecycleListener:173] - OpenSSL successfully initialized [OpenSSL 1.1.1  11 Sep 2018]
+INFO  21-03-31 11:38:41[restartedMain] [TldScanner:173] - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+INFO  21-03-31 11:38:41[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-03-31 11:38:41[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 269 ms
+INFO  21-03-31 11:38:41[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-03-31 11:38:41[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-03-31 11:38:41[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-9090"]
+INFO  21-03-31 11:38:41[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 9090 (http) with context path '/demo'
+INFO  21-03-31 11:38:41[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.416 seconds (JVM running for 2292.486)
+INFO  21-03-31 11:38:41[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+INFO  21-03-31 11:38:43[RMI TCP Connection(2)-127.0.0.1] [SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin:159] - Application shutdown requested.
+INFO  21-03-31 11:38:44[RMI TCP Connection(2)-127.0.0.1] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'

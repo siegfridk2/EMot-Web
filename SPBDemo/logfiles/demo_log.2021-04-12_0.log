@@ -1,0 +1,601 @@
+WARN  21-04-12 10:24:15[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 10:24:15[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 8756 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 10:24:15[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 10:24:16[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 10:24:17[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.416 seconds (JVM running for 3.8)
+INFO  21-04-12 10:24:17[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+WARN  21-04-12 10:58:39[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 10:58:39[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 64460 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 10:58:39[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 10:58:41[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 10:58:42[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 3.273 seconds (JVM running for 4.664)
+INFO  21-04-12 10:58:42[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+WARN  21-04-12 11:04:02[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 11:04:02[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 62888 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 11:04:02[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 11:04:03[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 11:04:04[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.671 seconds (JVM running for 3.932)
+INFO  21-04-12 11:04:05[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+WARN  21-04-12 11:09:03[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 11:09:03[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 35304 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 11:09:03[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 11:09:04[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 11:09:05[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.524 seconds (JVM running for 3.816)
+INFO  21-04-12 11:09:05[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+WARN  21-04-12 11:11:31[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 11:11:31[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 6568 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 11:11:31[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 11:11:32[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 11:11:33[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.508 seconds (JVM running for 3.759)
+INFO  21-04-12 11:11:33[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+WARN  21-04-12 11:13:09[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 11:13:09[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 20228 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 11:13:09[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 11:13:11[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 11:13:11[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.456 seconds (JVM running for 3.783)
+INFO  21-04-12 11:13:12[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+WARN  21-04-12 11:18:12[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 11:18:12[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 17324 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 11:18:12[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 11:18:14[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 11:18:14[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.471 seconds (JVM running for 3.672)
+INFO  21-04-12 11:18:15[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+WARN  21-04-12 11:18:36[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 11:18:36[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 35724 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 11:18:36[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 11:18:37[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 11:18:38[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.457 seconds (JVM running for 3.666)
+INFO  21-04-12 11:18:38[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+WARN  21-04-12 11:23:52[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 11:23:53[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 19376 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 11:23:53[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 11:23:54[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 11:23:54[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.485 seconds (JVM running for 3.798)
+INFO  21-04-12 11:23:55[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+WARN  21-04-12 11:27:34[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 11:27:34[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 31248 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 11:27:34[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 11:27:36[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 11:27:36[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 3.133 seconds (JVM running for 4.442)
+INFO  21-04-12 11:27:37[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+WARN  21-04-12 11:36:14[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 11:36:14[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 65412 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 11:36:14[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 11:36:16[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 11:36:16[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.592 seconds (JVM running for 3.808)
+INFO  21-04-12 11:36:17[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+WARN  21-04-12 11:42:16[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 11:42:16[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 37176 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 11:42:16[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 11:42:18[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 11:42:18[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.622 seconds (JVM running for 3.851)
+INFO  21-04-12 11:42:18[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+WARN  21-04-12 11:45:36[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 11:45:36[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 41616 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 11:45:36[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 11:45:38[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 11:45:38[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.587 seconds (JVM running for 3.852)
+INFO  21-04-12 11:45:39[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+WARN  21-04-12 11:56:35[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 11:56:35[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 10200 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 11:56:35[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 11:56:37[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 11:56:37[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.536 seconds (JVM running for 3.781)
+INFO  21-04-12 11:56:38[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+WARN  21-04-12 13:14:07[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 13:14:07[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 45584 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 13:14:07[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 13:14:09[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 13:14:09[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.503 seconds (JVM running for 3.808)
+INFO  21-04-12 13:14:09[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 13:30:23[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.4 on DESKTOP-PAC9L00 with PID 27096 (C:\workspace_emot\demo\target\classes started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 13:30:23[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-04-12 13:30:23[restartedMain] [DevToolsPropertyDefaultsPostProcessor:255] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+INFO  21-04-12 13:30:23[restartedMain] [DevToolsPropertyDefaultsPostProcessor:255] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+INFO  21-04-12 13:30:26[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 9090 (http)
+INFO  21-04-12 13:30:26[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-9090"]
+INFO  21-04-12 13:30:26[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-04-12 13:30:26[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-04-12 13:30:26[restartedMain] [TldScanner:173] - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+INFO  21-04-12 13:30:26[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-04-12 13:30:26[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 2453 ms
+INFO  21-04-12 13:30:26[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 13:30:26[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-04-12 13:30:26[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-9090"]
+INFO  21-04-12 13:30:27[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 9090 (http) with context path '/demo'
+INFO  21-04-12 13:30:27[restartedMain] [DemoApplication:61] - Started DemoApplication in 3.926 seconds (JVM running for 4.755)
+INFO  21-04-12 13:30:43[http-nio-9090-exec-1] [[/demo]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+INFO  21-04-12 13:30:43[http-nio-9090-exec-1] [DispatcherServlet:525] - Initializing Servlet 'dispatcherServlet'
+INFO  21-04-12 13:30:43[http-nio-9090-exec-1] [DispatcherServlet:547] - Completed initialization in 1 ms
+INFO  21-04-12 13:30:43[http-nio-9090-exec-1] [SampleController:26] - this is mpm skill test method
+INFO  21-04-12 13:30:44[http-nio-9090-exec-2] [SampleController:26] - this is mpm skill test method
+WARN  21-04-12 13:30:44[http-nio-9090-exec-2] [SessionIdGeneratorBase:173] - Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [132] milliseconds.
+WARN  21-04-12 13:30:44[http-nio-9090-exec-1] [SessionIdGeneratorBase:173] - Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [710] milliseconds.
+INFO  21-04-12 13:32:01[http-nio-9090-exec-7] [SampleController:26] - this is mpm skill test method
+INFO  21-04-12 13:32:21[http-nio-9090-exec-9] [SampleController:26] - this is mpm skill test method
+INFO  21-04-12 13:32:24[http-nio-9090-exec-1] [SampleController:26] - this is mpm skill test method
+INFO  21-04-12 13:32:41[http-nio-9090-exec-5] [SampleController:26] - this is mpm skill test method
+INFO  21-04-12 13:32:47[http-nio-9090-exec-8] [SampleController:26] - this is mpm skill test method
+INFO  21-04-12 13:32:55[http-nio-9090-exec-2] [Http11Processor:175] - Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x010x020x000x010x000x010xfc0x030x03zBf0x1f0x970x83(00xa70xa60x040x90ZM0x9e0x04x0xb00x1d0xa60xca0x8a0xea0xce0xba0xea0x0e0x820xbd90xf2b]. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:417)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:261)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+INFO  21-04-12 13:32:55[http-nio-9090-exec-10] [Http11Processor:175] - Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x010x020x000x010x000x010xfc0x030x030x14i0xa60xc23xZ>o0x0a0x030x0d0x87^0x870x140x8e0xeas0xe20xb00x8e.0xf70xb60x94Z0xd3>F0xfa]]. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:417)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:261)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:893)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1707)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+INFO  21-04-12 13:33:02[http-nio-9090-exec-4] [SampleController:26] - this is mpm skill test method
+INFO  21-04-12 13:33:07[http-nio-9090-exec-7] [SampleController:26] - this is mpm skill test method
+DEBUG 21-04-12 13:33:25[File Watcher] [Restarter:249] - Restarting application
+DEBUG 21-04-12 13:33:25[Thread-5] [Restarter:305] - Stopping application
+DEBUG 21-04-12 13:33:25[Thread-5] [AnnotationConfigServletWebServerApplicationContext:1049] - Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@13d925a6, started on Mon Apr 12 13:30:23 JST 2021
+DEBUG 21-04-12 13:33:25[Thread-5] [DefaultLifecycleProcessor:365] - Stopping beans in phase 2147483647
+DEBUG 21-04-12 13:33:25[Thread-5] [DefaultLifecycleProcessor:238] - Bean 'webServerGracefulShutdown' completed its stop procedure
+DEBUG 21-04-12 13:33:25[Thread-5] [DefaultLifecycleProcessor:365] - Stopping beans in phase 2147483646
+DEBUG 21-04-12 13:33:25[Thread-5] [DefaultLifecycleProcessor:238] - Bean 'webServerStartStop' completed its stop procedure
+INFO  21-04-12 13:33:25[Thread-5] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+DEBUG 21-04-12 13:33:25[Thread-5] [Restarter:85] - Created RestartClassLoader org.springframework.boot.devtools.restart.classloader.RestartClassLoader@19d23413
+DEBUG 21-04-12 13:33:25[Thread-5] [Restarter:281] - Starting application com.example.demo.DemoApplication with URLs [file:/C:/workspace_emot/demo/target/classes/]
+INFO  21-04-12 13:33:25[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.4 on DESKTOP-PAC9L00 with PID 27096 (C:\workspace_emot\demo\target\classes started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 13:33:25[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-04-12 13:33:26[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 9090 (http)
+INFO  21-04-12 13:33:26[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-9090"]
+INFO  21-04-12 13:33:26[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-04-12 13:33:26[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-04-12 13:33:26[restartedMain] [TldScanner:173] - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+INFO  21-04-12 13:33:26[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-04-12 13:33:26[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 394 ms
+INFO  21-04-12 13:33:26[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 13:33:26[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-04-12 13:33:26[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-9090"]
+INFO  21-04-12 13:33:26[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 9090 (http) with context path '/demo'
+INFO  21-04-12 13:33:26[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.595 seconds (JVM running for 184.085)
+INFO  21-04-12 13:33:26[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+WARN  21-04-12 13:33:34[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 13:33:34[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 50372 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 13:33:34[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 13:33:35[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 13:33:36[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.553 seconds (JVM running for 3.794)
+INFO  21-04-12 13:33:36[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 13:36:55[Thread-8] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 13:36:55[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.4 on DESKTOP-PAC9L00 with PID 27096 (C:\workspace_emot\demo\target\classes started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 13:36:55[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-04-12 13:36:55[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 9090 (http)
+INFO  21-04-12 13:36:55[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-9090"]
+INFO  21-04-12 13:36:55[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-04-12 13:36:55[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-04-12 13:36:55[restartedMain] [TldScanner:173] - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+INFO  21-04-12 13:36:55[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-04-12 13:36:55[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 382 ms
+INFO  21-04-12 13:36:55[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 13:36:55[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-04-12 13:36:55[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-9090"]
+INFO  21-04-12 13:36:55[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 9090 (http) with context path '/demo'
+INFO  21-04-12 13:36:55[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.539 seconds (JVM running for 393.385)
+INFO  21-04-12 13:36:55[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+WARN  21-04-12 13:37:06[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 13:37:06[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 30100 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 13:37:06[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 13:37:07[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 13:37:08[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.539 seconds (JVM running for 3.839)
+INFO  21-04-12 13:37:08[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+WARN  21-04-12 13:42:05[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 13:42:05[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 48752 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 13:42:05[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 13:42:07[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 13:42:07[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.464 seconds (JVM running for 3.689)
+INFO  21-04-12 13:42:08[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+WARN  21-04-12 13:43:00[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 13:43:00[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 61296 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 13:43:00[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 13:43:02[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 13:43:02[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.648 seconds (JVM running for 3.922)
+INFO  21-04-12 13:43:03[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+WARN  21-04-12 13:51:04[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 13:51:04[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 58892 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 13:51:04[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 13:51:05[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 13:51:06[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.492 seconds (JVM running for 3.666)
+INFO  21-04-12 13:51:06[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+WARN  21-04-12 13:55:59[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 13:55:59[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 52552 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 13:55:59[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 13:56:01[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 13:56:01[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.459 seconds (JVM running for 3.684)
+INFO  21-04-12 13:56:02[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+WARN  21-04-12 13:56:16[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 13:56:16[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 59896 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 13:56:16[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 13:56:18[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 13:56:18[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.633 seconds (JVM running for 3.777)
+INFO  21-04-12 13:56:19[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 13:56:37[Thread-13] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 13:56:37[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.4 on DESKTOP-PAC9L00 with PID 27096 (C:\workspace_emot\demo\target\classes started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 13:56:37[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-04-12 13:56:37[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 9090 (http)
+INFO  21-04-12 13:56:37[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-9090"]
+INFO  21-04-12 13:56:37[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-04-12 13:56:37[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-04-12 13:56:38[restartedMain] [TldScanner:173] - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+INFO  21-04-12 13:56:38[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-04-12 13:56:38[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 554 ms
+INFO  21-04-12 13:56:38[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 13:56:38[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-04-12 13:56:38[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-9090"]
+INFO  21-04-12 13:56:38[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 9090 (http) with context path '/demo'
+INFO  21-04-12 13:56:38[restartedMain] [DemoApplication:61] - Started DemoApplication in 0.734 seconds (JVM running for 1575.922)
+INFO  21-04-12 13:56:38[restartedMain] [ConditionEvaluationDeltaLoggingListener:63] - Condition evaluation unchanged
+WARN  21-04-12 13:57:01[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 13:57:01[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 21820 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 13:57:01[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 13:57:03[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 13:57:03[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.741 seconds (JVM running for 4.015)
+INFO  21-04-12 13:57:04[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+WARN  21-04-12 14:02:10[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 14:02:10[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 29440 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 14:02:10[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 14:02:12[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 14:02:12[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.583 seconds (JVM running for 3.764)
+INFO  21-04-12 14:02:13[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+WARN  21-04-12 14:03:06[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 14:03:06[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 35728 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 14:03:06[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 14:03:07[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 14:03:08[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.51 seconds (JVM running for 3.767)
+INFO  21-04-12 14:03:08[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+WARN  21-04-12 14:05:50[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 14:05:50[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 50288 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 14:05:50[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 14:05:51[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 14:05:51[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.506 seconds (JVM running for 3.796)
+INFO  21-04-12 14:05:52[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+WARN  21-04-12 14:18:10[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 14:18:10[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 30492 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 14:18:10[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 14:18:11[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 14:18:11[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.495 seconds (JVM running for 4.104)
+INFO  21-04-12 14:18:12[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+WARN  21-04-12 14:22:11[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 14:22:11[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 54100 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 14:22:11[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 14:22:13[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 14:22:13[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.445 seconds (JVM running for 3.767)
+INFO  21-04-12 14:22:13[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 14:35:00[restartedMain] [DemoApplication:55] - Starting DemoApplication using Java 11.0.4 on DESKTOP-PAC9L00 with PID 47236 (C:\workspace_emot\demo\target\classes started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 14:35:00[restartedMain] [DemoApplication:666] - The following profiles are active: local
+INFO  21-04-12 14:35:00[restartedMain] [DevToolsPropertyDefaultsPostProcessor:255] - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+INFO  21-04-12 14:35:00[restartedMain] [DevToolsPropertyDefaultsPostProcessor:255] - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+INFO  21-04-12 14:35:02[restartedMain] [TomcatWebServer:108] - Tomcat initialized with port(s): 9090 (http)
+INFO  21-04-12 14:35:02[restartedMain] [Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-9090"]
+INFO  21-04-12 14:35:02[restartedMain] [StandardService:173] - Starting service [Tomcat]
+INFO  21-04-12 14:35:02[restartedMain] [StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.44]
+INFO  21-04-12 14:35:03[restartedMain] [TldScanner:173] - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+INFO  21-04-12 14:35:03[restartedMain] [[/demo]:173] - Initializing Spring embedded WebApplicationContext
+INFO  21-04-12 14:35:03[restartedMain] [ServletWebServerApplicationContext:289] - Root WebApplicationContext: initialization completed in 2423 ms
+INFO  21-04-12 14:35:03[restartedMain] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 14:35:03[restartedMain] [OptionalLiveReloadServer:58] - LiveReload server is running on port 35729
+INFO  21-04-12 14:35:03[restartedMain] [Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-9090"]
+INFO  21-04-12 14:35:03[restartedMain] [TomcatWebServer:220] - Tomcat started on port(s): 9090 (http) with context path '/demo'
+INFO  21-04-12 14:35:03[restartedMain] [DemoApplication:61] - Started DemoApplication in 3.643 seconds (JVM running for 4.367)
+INFO  21-04-12 14:35:11[http-nio-9090-exec-1] [[/demo]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+INFO  21-04-12 14:35:11[http-nio-9090-exec-1] [DispatcherServlet:525] - Initializing Servlet 'dispatcherServlet'
+INFO  21-04-12 14:35:11[http-nio-9090-exec-1] [DispatcherServlet:547] - Completed initialization in 1 ms
+INFO  21-04-12 14:35:11[http-nio-9090-exec-1] [SampleController:39] - this is mpm skill test method
+WARN  21-04-12 14:35:12[http-nio-9090-exec-1] [SessionIdGeneratorBase:173] - Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [692] milliseconds.
+INFO  21-04-12 14:35:17[http-nio-9090-exec-4] [SampleController:26] - this is mpm skill test method
+INFO  21-04-12 14:36:08[http-nio-9090-exec-8] [SampleController:26] - this is mpm skill test method
+INFO  21-04-12 14:37:21[http-nio-9090-exec-2] [SampleController:26] - this is mpm skill test method
+INFO  21-04-12 14:37:51[http-nio-9090-exec-6] [SampleController:26] - this is mpm skill test method
+INFO  21-04-12 14:38:11[http-nio-9090-exec-10] [SampleController:26] - this is mpm skill test method
+WARN  21-04-12 14:40:17[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 14:40:17[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 50952 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 14:40:17[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 14:40:19[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 14:40:20[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 3.332 seconds (JVM running for 4.683)
+INFO  21-04-12 14:40:21[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+WARN  21-04-12 15:15:30[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 15:15:30[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 57128 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 15:15:30[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 15:15:32[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 15:15:32[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.439 seconds (JVM running for 3.695)
+INFO  21-04-12 15:15:33[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+WARN  21-04-12 17:01:59[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 17:01:59[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 53412 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 17:01:59[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 17:02:00[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 17:02:01[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.61 seconds (JVM running for 3.801)
+INFO  21-04-12 17:02:01[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+WARN  21-04-12 17:15:13[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 17:15:13[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 45784 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 17:15:13[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 17:15:15[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 17:15:15[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.612 seconds (JVM running for 3.838)
+INFO  21-04-12 17:15:16[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+WARN  21-04-12 17:16:31[main] [DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer:78] - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/siegfridk2/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/siegfridk2/.m2/repository/org/json/json/20200518/json-20200518.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+INFO  21-04-12 17:16:31[main] [DemoApplicationTests:55] - Starting DemoApplicationTests using Java 11.0.4 on DESKTOP-PAC9L00 with PID 65852 (started by siegfridk2 in C:\workspace_emot\demo)
+INFO  21-04-12 17:16:31[main] [DemoApplicationTests:666] - The following profiles are active: local
+INFO  21-04-12 17:16:33[main] [ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+INFO  21-04-12 17:16:33[main] [DemoApplicationTests:61] - Started DemoApplicationTests in 2.652 seconds (JVM running for 3.921)
+INFO  21-04-12 17:16:34[SpringContextShutdownHook] [ThreadPoolTaskExecutor:218] - Shutting down ExecutorService 'applicationTaskExecutor'
