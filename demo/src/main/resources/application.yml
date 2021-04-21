@@ -1,0 +1,31 @@
+server:
+  servlet:
+    context-path: /
+  port: 3000
+  tomcat:
+    connection-timeout: 120000
+
+logging:
+  level:
+    root: info
+    com.example.demo: info
+    com.example.demo.sample: debug
+    
+    
+spring:
+  pid:
+    file: logfiles/demo/demo_01.pid
+    
+  devtools:
+    livereload:
+      enabled: true
+      
+  profiles:
+    active: local # logback-local.properties 파일 인식을 위해 추가
+   
+  mvc:
+    view:
+      prefix: /WEB-INF/views/
+      suffix: .jsp
+
+      
